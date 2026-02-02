@@ -1,6 +1,7 @@
 # Hi there! 👋
 
-My website link to know my projects better plz refer here - https://sites.google.com/view/shagun-singh-portfolio/home
+To know my Recent project- "BDM-Capstone-IITM-Data-Driven-Business-Analytics" better plz refer the PIN Project
+My website link - https://sites.google.com/view/shagun-singh-portfolio/home
 
 ## About Me
 - 👋 I’m @shagun-data
